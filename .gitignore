@@ -10,3 +10,4 @@ dist/*
 cabal.sandbox.config
 .tox/
 .eggs/
+*.fec
